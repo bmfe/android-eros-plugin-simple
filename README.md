@@ -1,0 +1,1 @@
+# android-eros-plugin-simple
