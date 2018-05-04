@@ -36,8 +36,11 @@
     ```java
         compile 'com.github.bmfe.eros-android-worker:eros-framework:eros_v0.0.1'
     ```
-  图6![](https://raw.githubusercontent.com/myliuyx/source/master/plugin_new_6.jpg)  
+  图6![](https://raw.githubusercontent.com/myliuyx/source/master/plugin_new_6.png)  
   
   > 具体可参考如图6， 也可以下载此simple 查看，完事儿以后点击右上角 sync now 等待
   完成即可.
+  
+  * 4、后面您可以随意写您的插件逻辑了， 集体 的注册可以参考 simple ErosPluginSimple.
+
 
