@@ -38,8 +38,9 @@
     ```
   图6![](https://raw.githubusercontent.com/myliuyx/source/master/plugin_new_6.png)  
   
-  > 具体可参考如图6， 也可以下载此simple 查看，完事儿以后点击右上角 sync now 等待
-  完成即可.
+> 具体可参考如图6， 也可以下载此simple 查看，完事儿以后点击右上角 sync now 等待完成即可.
+> compile 'com.github.bmfe.eros-android-worker:eros-framework:eros_v0.0.1', 库
+  依赖请参考最新版本 自行修改。
   
   * 4、后面您可以随意写您的插件逻辑了， 集体 的注册可以参考 `simple` 中的 ErosPluginSimple.
 
