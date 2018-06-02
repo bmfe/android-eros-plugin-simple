@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.taobao.android:weex_sdk-0.18.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/e903176cb3e158fc77c4080af4d0dde5a67acfb7/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/e903176cb3e158fc77c4080af4d0dde5a67acfb7/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
