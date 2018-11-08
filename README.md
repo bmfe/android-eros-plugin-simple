@@ -42,6 +42,6 @@
 > implementation 'com.github.bmfe.eros-nexus:nexus:1.0.1', 库
   依赖请参考最新版本 自行修改。
   
-  * 4、后面您可以随意写您的插件逻辑了， 集体 的注册可以参考 `sample` 中的 ErosPluginSimple.
+ * 4、后面您可以随意写您的插件逻辑了， 集体 的注册可以参考 `sample` 中的 ErosPluginSample.
 
 
